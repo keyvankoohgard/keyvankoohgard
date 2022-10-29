@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keyvankoohgard
 - 👀 I’m interested in .programming specially python
-- 🌱 I’m currently learning ..computer science in a univercity.
+- 🌱 I’m currently learning ..computer science in a university.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
